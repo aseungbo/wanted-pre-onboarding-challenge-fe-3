@@ -13,3 +13,8 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   </React.StrictMode>
 );
 ```
+
+## week 2 과제
+1. Routing 구현 feedback
+2. Next.js로 블로그 생성 후 SSG 사용
+- `Next framework 익숙해지기`
